@@ -1,7 +1,7 @@
 // почти все компоненты
 
 
- //я лоя себя 
+
 #include <GyverPortal.h>
 GyverPortal ui;
 
